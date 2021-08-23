@@ -10182,6 +10182,12 @@ header.masthead .masthead-heading {
 #stats-p{
   font-size: 20px;
 }
+#stats a{
+  color: #000000;
+}
+#stats a:hover{
+  color: rgb(61,81,108);
+}
 #chapters-p{
   font-size: 15px;
 }
